@@ -1,0 +1,31 @@
+{
+  "schema-version": "1.0.0",
+  "services": [
+    {
+      "endpoints": [
+        "https://dsib.sainsburys.co.uk/colleagueAttendanceApi"
+      ],
+      "service-dependencies": [],
+      "interface": "REST",
+      "type": "WEB-FRONT-END-APP",
+      "name": "ColleagueClockInApp-TC51",
+      "description": "This repo triggers the test automation scripts for Colleague Clockin TC51 app"
+    }
+  ],
+  "maintainers": [
+    {
+      "type": "TEAM",
+      "name": "Team_Avengers",
+      "email": "Team_Avengers@sainsburys.co.uk"
+    }
+  ],
+  "owners": [
+    {
+      "type": "TEAM",
+      "name": "Team_Avengers",
+      "email": "Team_Avengers@sainsburys.co.uk"
+    }
+  ],
+  "name": "ColleagueClockIn_TC51_Automation",
+  "description": "This repo triggers the test automation scripts for Colleague Clockin TC51 app"
+}
